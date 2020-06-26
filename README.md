@@ -6,7 +6,7 @@
 
 ***
 
-[**Image Explorer**](https://jwyg.github.io/image-explorer/) is a set of browser-based tools for the visual exploration of image collections.
+[**Image Explorer**](http://image-explorer.publicdatalab.org/) is a set of browser-based tools for the visual exploration of image collections.
 
 # 🥞 Image Stack
 
@@ -14,8 +14,8 @@ Enables the creation of an "image stack" from a set of image URLs.
 
 Follows from recent work on "composite images" (Pearce et al, 2018; Niederer & Colombo, 2019).
 
-* [Demo](https://jwyg.github.io/image-explorer/image-stack)
-* [Code on GitHub](https://github.com/jwyg/image-explorer/blob/gh-pages/image-stack/sketch.js)
+* [Demo](http://image-explorer.publicdatalab.org/image-stack)
+* [Code on GitHub](https://github.com/PublicDataLab/image-explorer/tree/gh-pages/image-stack)
 * [Code on P5 web editor](https://editor.p5js.org/jwyg/sketches/vmGk8vbAU)
 
 
@@ -25,8 +25,8 @@ Follows from recent work on "composite images" (Pearce et al, 2018; Niederer & C
 
 Enables the creation of an "image slice" from a set of image URLs.
 
-* [Demo](https://jwyg.github.io/image-explorer/image-slice)
-* [Code on GitHub](https://github.com/jwyg/image-explorer/blob/gh-pages/image-slice/sketch.js)
+* [Demo](http://image-explorer.publicdatalab.org/image-slice)
+* [Code on GitHub](https://github.com/PublicDataLab/image-explorer/tree/gh-pages/image-slice)
 * [Code on P5 web editor](https://editor.p5js.org/jwyg/sketches/Iv99Pz2mG)
 
 ![](https://i.imgur.com/lVT9R43.jpg?1)
@@ -35,25 +35,25 @@ Enables the creation of an "image slice" from a set of image URLs.
 
 Enables the creation of an "image blend" from a set of image URLs, including experimentation with [different P5 blend modes](https://p5js.org/reference/#/p5/blend).
 
-* [Demo](https://jwyg.github.io/image-explorer/image-blend)
-* [Code on Github](https://github.com/jwyg/image-explorer/blob/gh-pages/image-blend/sketch.js)
+* [Demo](http://image-explorer.publicdatalab.org/image-blend)
+* [Code on Github](https://github.com/PublicDataLab/image-explorer/tree/gh-pages/image-blend)
 * [Code on P5 web editor](https://editor.p5js.org/jwyg/sketches/l34CpRlNO)
 
 ![](https://i.imgur.com/Fhvg8WF.jpg?1)
 
 # 🍱 Image Grid
 
-*To do: Enables the creation of an "image grid" from a set of image URLs, including the display of a larger version of the image on click/rollover. See [roadmap](https://github.com/jwyg/image-explorer/projects/1).*
+*To do: Enables the creation of an "image grid" from a set of image URLs, including the display of a larger version of the image on click/rollover. See [roadmap](https://github.com/PublicDataLab/image-explorer/projects/1).*
 
 # 🎒 How to use
 
 ## 😸 On Github
 
-You can use on the web at <https://jwyg.github.io/image-explorer/> (*to do: enable import of image URLs*)
+You can use on the web at <http://image-explorer.publicdatalab.org/>
 
 ## 🧮 On P5 web editor
 
-You can run on [P5 web editor](https://editor.p5js.org/jwyg/sketches/l34CpRlNO), where you can login/create an account and duplicate and customise the code to add your own URLs and change variables.
+You can run on [P5 web editor](https://editor.p5js.org/jwyg/sketches/), where you can login/create an account and duplicate and customise the code to add your own URLs and change variables.
 
 ## 📦 Download and run locally
 
@@ -61,15 +61,15 @@ You can [download](https://github.com/jwyg/image-explorer/archive/gh-pages.zip) 
 
 ## 🍴Fork the code on GitHub
 
-You can [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the [repository](https://github.com/jwyg/image-explorer), modify accordingly, preview using [GitHub Pages](https://pages.github.com/) and suggest changes with a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+You can [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the [repository](https://github.com/PublicDataLab/image-explorer), modify accordingly, preview using [GitHub Pages](https://pages.github.com/) and suggest changes with a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 # 🎏 How to help
 
-You can see the roadmap [here](https://github.com/jwyg/image-explorer/projects/1).
+You can see the roadmap [here](https://github.com/PublicDataLab/image-explorer/projects/1).
 
 # 🙈 If you get stuck
 
-You can add an issue [here](https://github.com/jwyg/image-explorer/issues).
+You can add an issue [here](https://github.com/PublicDataLab/image-explorer/issues).
 
 # 🐙 Inspiration, acknowledgments and contributors
 
